@@ -1,0 +1,24 @@
+devops Tools:
+
+1> Git distributed version control management.
+
+2> Maven
+
+3> Artifactory jfrog
+
+
+4> Jenkins(CI/CD)
+
+5> SonarQube
+
+6> ansible
+
+7> Docker
+
+8> Kubernetes
+
+9> Prometheus and grafana
+
+
+1 live project + aws project
+

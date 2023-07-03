@@ -1,0 +1,14 @@
+DevOps
+
+Development + Operation
+
+* system thinking: Avoid focusing on only one thing.
+
+* feedback: keeping prodution healthy is everyone's job.
+
+* Learning: Contiual experimentation and Learning
+
+
+Build test deploy automaticall on every change.
+keep build scripting togeher with the code
+
