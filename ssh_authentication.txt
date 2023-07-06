@@ -1,0 +1,15 @@
+1> git config --global usr.name "username"
+   git config --global user.email "emailid"
+
+
+2> ssh-keygen
+
+
+3>eval "$(ssh-agent -s)"
+
+4>ssh-add ~/.ssh/privatekey
+
+5> public key add to server
+
+
+6> git clone sshlink
